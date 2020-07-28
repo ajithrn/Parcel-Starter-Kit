@@ -1,0 +1,11 @@
+@import './common/bootstrap';
+@import './common/typography';
+@import './common/variables';
+@import './common/mixins';
+@import './common/base';
+
+@import './components/welcome';
+
+@import './layout/header';
+@import './layout/content';
+@import './layout/footer';

@@ -1,0 +1,30 @@
+{
+  "name": "parcel-starter",
+  "version": "1.0.0",
+  "description": "Front-end starter kit using the Parcel bundler",
+  "main": "index.js",
+  "author": "Ajith R N <dev@ajithrn.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1-slim",
+    "parcel": "latest",
+    "popper.js": "^1.16.0",
+    "sass": "^1.15.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "parcel src/index.html",
+    "build": "parcel build src/index.html --no-source-maps --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajithrn/parcel-starter-kit.git"
+  },
+  "keywords": [],
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/ajithrn/parcel-starter-kit/issues"
+  },
+  "homepage": "https://github.com/ajithrn/parcel-starter-kit#readme"
+}
