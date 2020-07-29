@@ -7,6 +7,7 @@ A basic front-end starter template using the [Parcel bundler](https://github.com
 ### Features
 
 - Zero configuration (Parcel defaults)
+- Custom `dist` directory structure for assets (parcel-plugin-custom-dist-structure)
 - ES6+ project structure to single ES5 bundle
 - SCSS project structure to single CSS bundle
 - Minimal Bootstrap 4 setup ready to be customized
@@ -15,6 +16,7 @@ A basic front-end starter template using the [Parcel bundler](https://github.com
 ### Requirements
 
 - Node.js >= 6
+- Yarn      [(Installation)](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
 
 
 ### Getting Started
@@ -30,7 +32,7 @@ Alternatively, you could download the project as a [ZIP Archive](https://github.
 
 ### Available Scripts
 
-#### `yarn watch`
+#### `yarn start`
 
 Runs the project in development mode with hot reloading.
 
@@ -41,6 +43,6 @@ Builds the project for production to the `dist` folder.
 
 ### Disclaimer
 
-This is a work in progress :)
+This is a work in progress and a fork of [parcel-starter](https://github.com/pboi20/parcel-starter)
 
 [GPL 3.0 License](https://github.com/ajithrn/parcel-starter-kit/blob/master/LICENSE)

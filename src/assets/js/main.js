@@ -1,7 +1,7 @@
 /**
  * jQuery is required when using Bootstrap.js components:
  */
-//import $ from 'jquery';
+import $ from 'jquery';
 
 
 /**
@@ -29,5 +29,5 @@
 /**
  * An example ES6 module:
  */
-import welcome from './utils/welcome';
+import welcomeHome from './utils/welcome';
 welcomeHome();
