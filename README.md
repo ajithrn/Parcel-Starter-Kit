@@ -1,4 +1,4 @@
-# parcel-starter
+# Parcel Starter Kit
 
 
 A basic front-end starter template using the [Parcel bundler](https://github.com/parcel-bundler/parcel/).
